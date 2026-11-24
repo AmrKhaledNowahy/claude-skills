@@ -1,0 +1,11 @@
+{
+  "name": "amr-skills",
+  "owner": { "name": "Amr Khaled Nowahy" },
+  "plugins": [
+    {
+      "name": "amr-skills",
+      "source": "./",
+      "description": "Spring Boot style, Angular + PrimeNG patterns, and project documentation skills."
+    }
+  ]
+}
