@@ -3,7 +3,7 @@
   "owner": { "name": "Amr Khaled Nowahy" },
   "plugins": [
     {
-      "name": "amr-skills",
+      "name": "amr-elnowahy-skills",
       "source": "./",
       "description": "Spring Boot style, Angular + PrimeNG patterns, and project documentation skills.",
       "author": { "name": "Amr Khaled Nowahy" }
