@@ -1,7 +1,7 @@
 {
   "name": "amr-elnowahy-skills",
   "description": "Claude skills by Amr Khaled Nowahy: Spring Boot style, Angular + PrimeNG patterns, and project documentation.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "./amr-elnowahy-icon.png",
   "author": { "name": "Amr Khaled Nowahy" },
   "privacyPolicyUrl": "https://github.com/AmrKhaledNowahy/claude-skills/blob/main/PRIVACY.md",
